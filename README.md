@@ -2,7 +2,7 @@
 
 This is the (temporary?) nasme of a project whose aim is to achieve a **simple** and **dynamic content mounting**.
 
-This is a very WIP project. Feel free to contribute via pull requests or reporting issues.
+## **IMPORTANT!** this project is no longer continued.
 
 ## Gallium library
 
